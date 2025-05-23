@@ -1,3 +1,6 @@
 is_global = true
 
 dotnet_diagnostic.CA1014.severity = none
+
+# SA1200: Using directives should be placed correctly
+dotnet_diagnostic.SA1200.severity = none
